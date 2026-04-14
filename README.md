@@ -32,7 +32,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center" style="padding: 12px;">
       <a href="https://github.com/LorenzoOMN" title="GitHub">
-        <img src="https://github.com/user-attachments/assets/4fc45967-075b-4f35-80ca-137250a2b2ea" width="90px" height="90px" style="border-radius: 50%; object-fit: cover;" alt="Lorenzo Nogueira"/><br>
+        <img src="https://github.com/thiagosantos-17/fotos_abp/blob/main/lorenzo.jpeg?raw=true" width="90px" height="90px" style="border-radius: 50%; object-fit: cover;" alt="Lorenzo Nogueira"/><br>
         <strong style="display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 12px;">Lorenzo Nogueira</strong>
       </a>
     </td>
