@@ -30,7 +30,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/LorenzoOMN" title="GitHub">
-        <img src="https://github.com/user-attachments/assets/9a19eb00-a8cf-4192-8a0e-83588b6603a6" width="100px;" alt="Lorenzo Nogueira"/><br>
+        <img src="https://github.com/user-attachments/assets/6450767b-cdf0-4379-ad2f-33affe69ab58" width="100px;" alt="Lorenzo Nogueira"/><br>
         <strong>Lorenzo Nogueira</strong>
       </a>
     </td>
