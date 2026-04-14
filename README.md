@@ -7,7 +7,7 @@
     <td align="center">
       <a href="https://github.com/VtecturboBr" title="GitHub">
         <img src="https://github.com/user-attachments/assets/918a9362-28f0-4e59-9a9b-b7652fc39c76" width="100px;" alt="Alef Oliveira"/><br>
-        <strong>Alef    Oliveira </strong>
+        <strong>Alef Oliveira </strong>
       </a>
     </td>
     <td align="center">
