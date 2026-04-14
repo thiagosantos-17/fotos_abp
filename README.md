@@ -40,10 +40,10 @@
         <strong>Renan Santos</strong>
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 8px;">
       <a href="https://github.com/thiagosantos-17" title="GitHub">
-        <img src="https://avatars.githubusercontent.com/u/205100877?v=4" width="100px;" alt="Thiago Santos"/><br>
-        <strong>Thiago Santos</strong>
+        <img src="https://avatars.githubusercontent.com/u/205100877?v=4" width="100px" height="100px" style="border-radius: 50%; object-fit: cover;" alt="Thiago Santos"/><br>
+        <strong style="display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 12px;">Thiago Santos</strong>
       </a>
     </td>
     <td align="center">
