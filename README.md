@@ -7,7 +7,7 @@
     <td align="center">
       <a href="https://github.com/VtecturboBr" title="GitHub">
         <img src="https://github.com/user-attachments/assets/918a9362-28f0-4e59-9a9b-b7652fc39c76" width="100px;" alt="Alef Oliveira"/><br>
-        <strong>Alef Oliveira </strong>
+        <strong>Alef <p></p>  Oliveira </strong>
       </a>
     </td>
     <td align="center">
@@ -43,7 +43,7 @@
     <td align="center">
       <a href="https://github.com/thiagosantos-17" title="GitHub">
         <img src="https://avatars.githubusercontent.com/u/205100877?v=4" width="100px;" alt="Thiago Santos"/><br>
-        <strong>Thiago Santos</strong>
+        <strong>Thiago <p></p> Santos</strong>
       </a>
     </td>
     <td align="center">
