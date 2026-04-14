@@ -6,7 +6,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/VtecturboBr" title="GitHub">
-        <img src="![Image](https://github.com/user-attachments/assets/6217e3e9-40e7-4601-8d67-0431b7ea9365)" width="100px;" alt="Alef Oliveira"/><br>
+        <img src="https://github.com/user-attachments/assets/6217e3e9-40e7-4601-8d67-0431b7ea9365" width="100px;" alt="Alef Oliveira"/><br>
         <strong>Alef Oliveira </strong>
       </a>
     </td>
@@ -30,7 +30,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/LorenzoOMN" title="GitHub">
-        <img src="![Image](https://github.com/user-attachments/assets/9a19eb00-a8cf-4192-8a0e-83588b6603a6)
+        <img src="https://github.com/user-attachments/assets/9a19eb00-a8cf-4192-8a0e-83588b6603a6
 " width="100px;" alt="Lorenzo Nogueira"/><br>
         <strong>Lorenzo Nogueira</strong>
       </a>
@@ -55,7 +55,6 @@
     </td>
   </tr>
 </table>
-
 
 
 
