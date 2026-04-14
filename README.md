@@ -44,7 +44,7 @@
     <td align="center">
       <a href="https://github.com/thiagosantos-17" title="GitHub">
         <img src="https://avatars.githubusercontent.com/u/205100877?v=4" width="100px;" alt="Thiago Santos"/><br>
-        <strong>Thiago</strong>
+        <strong>Thiago Santos</strong>
       </a>
     </td>
     <td align="center">
@@ -55,6 +55,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
