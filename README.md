@@ -76,14 +76,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## 🚀 Acesso Rápido
 
-<div align="center">
+
 
 | 📂 Documentação | 🛠️ Desenvolvimento | 📈 Gestão |
-| :---: | :---: | :---: |
-| [![Figma](https://img.shields.io/badge/Protótipo-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](LINK_DO_FIGMA) | [![Repo](https://img.shields.io/badge/Repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_DO_REPO) | [![Kanban](https://img.shields.io/badge/Quadro_Kanban-238636?style=for-the-badge&logo=github-project&logoColor=white)](LINK_DO_PROJECTS) |
-| [![Wiki](https://img.shields.io/badge/Documentação-Manual-005A9C?style=for-the-badge&logo=gitbook&logoColor=white)](LINK_DA_WIKI) | [![DB](https://img.shields.io/badge/Modelagem-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](LINK_DO_DIAGRAMA) | [![Meeting](https://img.shields.io/badge/Atas_de_Daily-informational?style=for-the-badge&logo=microsoft-teams&logoColor=white)](LINK_DAS_ATAS) |
+| :--- | :--- | :--- |
+| [![Figma](https://img.shields.io/badge/Protótipo_Figma-F24E1E?style=flat&logo=figma&logoColor=white)](LINK_DO_FIGMA) | [![Repo](https://img.shields.io/badge/Repositório_GitHub-181717?style=flat&logo=github&logoColor=white)](LINK_DO_REPO) | [![Kanban](https://img.shields.io/badge/Quadro_Kanban-238636?style=flat&logo=github-project&logoColor=white)](LINK_DO_PROJECTS) |
+| [![Wiki](https://img.shields.io/badge/Manual_do_Projeto-005A9C?style=flat&logo=gitbook&logoColor=white)](LINK_DA_WIKI) | [![DB](https://img.shields.io/badge/Modelagem_DB-336791?style=flat&logo=postgresql&logoColor=white)](LINK_DO_DIAGRAMA) | [![Backlog](https://img.shields.io/badge/Product_Backlog-orange?style=flat&logo=notion&logoColor=white)](#backlog) |
 
-</div>
+---
 
 
 
