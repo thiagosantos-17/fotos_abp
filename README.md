@@ -77,11 +77,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 ## 🚀 Acesso Rápido
 
 
-
 | 📂 Documentação | 🛠️ Desenvolvimento | 📈 Gestão |
 | :--- | :--- | :--- |
-| [![Figma](https://img.shields.io/badge/Protótipo_Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](LINK_DO_FIGMA) | [![Repo](https://img.shields.io/badge/Repositório_GitHub-181717?style=flat-square&logo=github&logoColor=white)](LINK_DO_REPO) | [![Kanban](https://img.shields.io/badge/Quadro_Kanban-238636?style=flat-square&logo=github-project&logoColor=white)](LINK_DO_PROJECTS) |
-
+| [![Figma](https://img.shields.io/badge/Protótipo_Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/proto/96DMn9UVu2MT9xJIi5pBiQ/Prototipo_Scrum-Dungeon?node-id=3-2&t=FElD62ocvanQY5YP-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2&show-proto-sidebar=1) | [![Repo](https://img.shields.io/badge/Repositório_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/octopusCode26/ABP_DSM1_) | ![Kanban](https://img.shields.io/badge/Quadro_Kanban-Em_processo-lightgrey?style=flat-square&logo=github-project) |
 
 
 
