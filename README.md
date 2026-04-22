@@ -84,3 +84,16 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 | [![Wiki](https://img.shields.io/badge/Documentação-Manual-005A9C?style=for-the-badge&logo=gitbook&logoColor=white)](LINK_DA_WIKI) | [![DB](https://img.shields.io/badge/Modelagem-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](LINK_DO_DIAGRAMA) | [![Meeting](https://img.shields.io/badge/Atas_de_Daily-informational?style=for-the-badge&logo=microsoft-teams&logoColor=white)](LINK_DAS_ATAS) |
 
 </div>
+
+
+
+
+
+
+
+## 📍 Navegação Útil
+
+* 🗺️ **Visão Geral:** [Product Backlog](#backlog) | [Sprints](#sprints) | [Critérios de Pronto](#)
+* 🎨 **Design & UX:** [Protótipo Alta Fidelidade (Figma)](LINK) | [Guia de Estilo](#)
+* 💾 **Banco de Dados:** [Dicionário de Dados](LINK) | [Diagrama Entidade-Relacionamento](LINK)
+* 📜 **Regras de Negócio:** [Documento de Requisitos](LINK) | [Manual do Usuário](LINK)
