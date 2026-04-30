@@ -1,14 +1,8 @@
-## 🎬 Demonstração
+## 🎥 Demonstração do Projeto
 
-<p align="center">
-  <a href="https://youtu.be/0MVQDj3I3wc?si=0HSr891Ry4o-Baql" target="_blank">
-    <img src="https://img.youtube.com/vi/0MVQDj3I3wc/maxresdefault.jpg" 
-         alt="Scrum Dungeon - Demo" 
-         width="600">
-  </a>
-  <br>
-  <sub><i>Clique na imagem para assistir à demonstração completa ▶️</i></sub>
-</p>
+[![Assista ao vídeo](https://img.youtube.com/vi/0MVQDj3I3wc/maxresdefault.jpg)](https://youtu.be/0MVQDj3I3wc)
+
+> Clique na imagem acima para assistir à demonstração completa do sistema.
 
 ## 🤝 Colaboradores
 
