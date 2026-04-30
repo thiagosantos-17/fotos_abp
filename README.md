@@ -1,5 +1,8 @@
-🎥 [Assistir demonstração do Scrum Dungeon no YouTube](https://youtu.be/0MVQDj3I3wc?si=0HSr891Ry4o-Baql)
+## 📺 Vídeo de Demonstração
 
+📌 Demonstração prática do funcionamento do sistema:
+
+👉 https://youtu.be/0MVQDj3I3wc
 
 ## 🤝 Colaboradores
 
