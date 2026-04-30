@@ -1,6 +1,6 @@
 ## 📺 Vídeo da 1° Spint
 
-📌 Acesse o vídeo com informações do que foi desenvolvido na 1° Sprint :
+📌 Acesse o vídeo com informações do que foi desenvolvido na 1° Sprint : <br>
 👉 https://youtu.be/0MVQDj3I3wc
 
 ## 🤝 Colaboradores
