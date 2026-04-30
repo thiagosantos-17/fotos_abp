@@ -1,6 +1,10 @@
-## 🎥 Vídeo de Demonstração
+## 📺 Demonstração em Vídeo
 
-🔗 https://youtu.be/0MVQDj3I3wc
+Confira abaixo uma demonstração do funcionamento do sistema desenvolvido:
+
+[![Demonstração do Sistema](https://img.youtube.com/vi/0MVQDj3I3wc/maxresdefault.jpg)](https://youtu.be/0MVQDj3I3wc)
+
+---
 
 
 ## 🤝 Colaboradores
