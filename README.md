@@ -1,10 +1,4 @@
-## 📺 Demonstração em Vídeo
-
-Confira abaixo uma demonstração do funcionamento do sistema desenvolvido:
-
-[![Demonstração do Sistema](https://img.youtube.com/vi/0MVQDj3I3wc/maxresdefault.jpg)](https://youtu.be/0MVQDj3I3wc)
-
----
+🎥 [Assistir demonstração do Scrum Dungeon no YouTube](https://youtu.be/0MVQDj3I3wc?si=0HSr891Ry4o-Baql)
 
 
 ## 🤝 Colaboradores
