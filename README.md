@@ -1,7 +1,6 @@
-## 📺 Vídeo de Demonstração
+## 📺 Vídeo da 1° Spint
 
-📌 Demonstração prática do funcionamento do sistema:
-
+📌 Acesse o vídeo com informações do que foi desenvolvido na 1° Sprint :
 👉 https://youtu.be/0MVQDj3I3wc
 
 ## 🤝 Colaboradores
