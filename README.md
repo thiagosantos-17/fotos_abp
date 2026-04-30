@@ -1,8 +1,7 @@
-## 🎥 Demonstração do Projeto
+## 🎥 Vídeo de Demonstração
 
-[![Assista ao vídeo](https://img.youtube.com/vi/0MVQDj3I3wc/maxresdefault.jpg)](https://youtu.be/0MVQDj3I3wc)
+🔗 https://youtu.be/0MVQDj3I3wc
 
-> Clique na imagem acima para assistir à demonstração completa do sistema.
 
 ## 🤝 Colaboradores
 
