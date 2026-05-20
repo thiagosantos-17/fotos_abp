@@ -143,7 +143,7 @@ O **front-end** é desenvolvido com **HTML, CSS e JavaScript puro**, com **EJS**
 [![Kanban](https://img.shields.io/badge/Acompanhar_Kanban-163451?style=plastic&logo=github&logoColor=white)](https://github.com/users/octopusCode26/projects/8)
 
 | Tarefa | Pontuaçaõ task | Responsável | Requisitos | Prioridade | Dificuldade | Iniciada | Concluída |
-|--------|-------------|:----------:|:----------:|:-----------:|:--------:|:---------:|
+|--------|-------------||-------------|:----------:|:----------:|:-----------:|:--------:|:---------:|
 | Organizar Ambiente Virtual |   |Lorenzo, Igor | `RF-00` | Médio | Fácil | ✔️ | ✔️ |
 | Definição de Conteúdo |   | Vitor | `RF-00` | Alta | Fácil | ✔️ | ✔️ |
 | Fluxo Principal do Usuário |   | Vitor | `RNF-01` | Baixa | Médio | ✔️ | ✔️ |
