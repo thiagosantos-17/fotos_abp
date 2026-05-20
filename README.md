@@ -142,7 +142,7 @@ O **front-end** é desenvolvido com **HTML, CSS e JavaScript puro**, com **EJS**
 
 [![Kanban](https://img.shields.io/badge/Acompanhar_Kanban-163451?style=plastic&logo=github&logoColor=white)](https://github.com/users/octopusCode26/projects/8)
 
-| Tarefa | Pontuaçaõ task | Responsável | Requisitos | Prioridade | Dificuldade | Iniciada | Concluída |
+| Tarefa | Pontuação task | Responsável | Requisitos | Prioridade | Dificuldade | Iniciada | Concluída |
 |--------|----------------|:------------|:----------:|:----------:|:-----------:|:--------:|:---------:|
 | Organizar Ambiente Virtual |   |Lorenzo, Igor | `RF-00` | Médio | Fácil | ✔️ | ✔️ |
 | Definição de Conteúdo |   | Vitor | `RF-00` | Alta | Fácil | ✔️ | ✔️ |
@@ -175,8 +175,8 @@ O **front-end** é desenvolvido com **HTML, CSS e JavaScript puro**, com **EJS**
 
 [![Kanban](https://img.shields.io/badge/Acompanhar_Kanban-163451?style=plastic&logo=github&logoColor=white)](https://github.com/users/octopusCode26/projects/13)
 
-| Tarefa | Pontuaçaõ task | Responsável | Requisitos | Prioridade | Dificuldade | Iniciada | Concluída |
-|--------|-------------|:----------:|:----------:|:-----------:|:--------:|:---------:|
+| Tarefa | Pontuação task | Responsável | Requisitos | Prioridade | Dificuldade | Iniciada | Concluída |
+|--------|----------------|:------------|:----------:|:----------:|:-----------:|:--------:|:---------:|
 | Sistema Cadastro | 9 | Patricia, Lorenzo, Cauã | `RF-01` `RNF-03` | Alta | Médio | ✔️ | ✔️ |
 | Tela Cadastro | 7 | Patricia, Lorenzo, Cauã | `RF-01` `RNF-01` | Alta | Médio | ✔️ | ✔️ |
 | Sistema de Login | 9 | Patricia, Lorenzo, Cauã | `RF-02` | Alta | Médio | ✔️ | ✔️ |
